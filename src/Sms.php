@@ -1,6 +1,6 @@
 <?php
 
-namespace Tecdiary\Sms;
+namespace Tradepos\Sms;
 
 class Sms
 {
