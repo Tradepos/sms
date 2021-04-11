@@ -4,7 +4,7 @@ Simple SMS Gateway Package for sending short text messages. Currently Bulksms, C
 ### Installation
 
 ```php
-composer require tecdiary/sms
+composer require Tradepos/sms
  ```
 
 ### Usage
