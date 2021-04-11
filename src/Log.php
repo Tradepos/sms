@@ -1,6 +1,6 @@
 <?php
 
-namespace Tecdiary\Sms;
+namespace Tradepos\Sms;
 
 use Monolog\Logger;
 use Monolog\Handler\RotatingFileHandler;
